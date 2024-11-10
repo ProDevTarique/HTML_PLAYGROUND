@@ -1,0 +1,11 @@
+*
+{
+    background-color: skyblue;
+}
+
+.V1{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
